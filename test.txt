@@ -1,0 +1,7 @@
+def iuraLoh
+	if iura == loh
+		Message.success = true
+	end
+end
+
+iuraLoh
